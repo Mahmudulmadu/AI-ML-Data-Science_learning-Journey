@@ -23,7 +23,12 @@
 
 ### Day 5 – API Data Collection & Web Scraping
 
-Learned how to fetch data from public APIs using requests and convert JSON responses into Pandas DataFrames
+- Learned how to fetch data from public APIs using requests and convert JSON responses into Pandas DataFrames
 
-Practiced web scraping using requests + BeautifulSoup to extract, clean, and store structured data into CSV files
+- Practiced web scraping using requests + BeautifulSoup to extract, clean, and store structured data into CSV files
 
+### Day 6 – Pagination Scraping & Data Extraction
+
+- Learned how to scrape multiple web pages using pagination and automatically stop when no more pages are found
+
+- Practiced extracting specific content (quotes, authors, tags), filtering data based on conditions, and storing results in Pandas DataFrames
