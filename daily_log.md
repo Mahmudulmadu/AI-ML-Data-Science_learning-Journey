@@ -20,3 +20,10 @@
 - Learned handling missing values, duplicates, data type conversion, and string operations
 
 - Practiced data transformation, sorting, renaming, reordering columns, and index management
+
+### Day 5 – API Data Collection & Web Scraping
+
+Learned how to fetch data from public APIs using requests and convert JSON responses into Pandas DataFrames
+
+Practiced web scraping using requests + BeautifulSoup to extract, clean, and store structured data into CSV files
+
