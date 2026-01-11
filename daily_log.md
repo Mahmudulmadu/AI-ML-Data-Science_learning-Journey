@@ -32,3 +32,24 @@
 - Learned how to scrape multiple web pages using pagination and automatically stop when no more pages are found
 
 - Practiced extracting specific content (quotes, authors, tags), filtering data based on conditions, and storing results in Pandas DataFrames
+
+
+### Day 7 – Data Visualization with Matplotlib
+
+Practiced basic plotting using NumPy and Matplotlib
+
+Created histograms with custom bins and multiple datasets
+
+Visualized data using box plots and stack plots
+
+Learned to add labels, legends, grids, and reference lines
+
+### Day 8 – Advanced Matplotlib & Plot Styling
+
+Built subplots using both procedural and OOP Matplotlib approaches
+
+Compared datasets using line plots, bar charts, scatter plots, and pie charts
+
+Applied plot styling, themes, annotations, and color maps
+
+Saved figures and improved layout using tight_layout()
