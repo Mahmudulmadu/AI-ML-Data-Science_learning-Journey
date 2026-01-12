@@ -36,20 +36,73 @@
 
 ### Day 7 – Data Visualization with Matplotlib
 
-Practiced basic plotting using NumPy and Matplotlib
+- Practiced basic plotting using NumPy and Matplotlib
 
-Created histograms with custom bins and multiple datasets
+- Created histograms with custom bins and multiple datasets
 
-Visualized data using box plots and stack plots
+- Visualized data using box plots and stack plots
 
-Learned to add labels, legends, grids, and reference lines
+- Learned to add labels, legends, grids, and reference lines
 
 ### Day 8 – Advanced Matplotlib & Plot Styling
 
-Built subplots using both procedural and OOP Matplotlib approaches
+- Built subplots using both procedural and OOP Matplotlib approaches
 
-Compared datasets using line plots, bar charts, scatter plots, and pie charts
+- Compared datasets using line plots, bar charts, scatter plots, and pie charts
 
-Applied plot styling, themes, annotations, and color maps
+- Applied plot styling, themes, annotations, and color maps
 
-Saved figures and improved layout using tight_layout()
+- Saved figures and improved layout using tight_layout()
+
+
+
+### Day 9 - Introduction to Seaborn & Relational Plots
+
+- Explored the Seaborn library for statistical data visualization
+
+- Loaded built-in datasets like tips and flights
+
+- Created relational plots with sns.relplot:
+
+- Scatter plots with multiple dimensions (hue, size, style)
+
+- Line plots to show trends over variables
+
+- Practiced line plots using both Seaborn and Matplotlib
+
+- Learned to add markers, legends, and customize axes
+
+
+### Day 10 – Advanced Seaborn & Matplotlib Visualizations
+
+- Visualized distributions with sns.histplot and overlayed mean lines
+
+- Explored categorical plots:
+
+- Bar plots (sns.barplot)
+
+- Box plots (sns.boxplot) with hue separation
+
+- Worked with matrix-style plots:
+
+- Pivoted flights data to create heatmaps (sns.heatmap)
+
+- Annotated heatmaps with values and customized color maps
+
+- Applied best practices in Matplotlib:
+
+- Titles, axis labels, grids, legends, tight layout adjustments
+
+- Combined Seaborn plots with Matplotlib axes for greater control
+
+- Built composite figures:
+
+- Multiple subplots using plt.subplots()
+
+- Histograms with KDE, vertical lines for mean, customized axes
+
+- Analyzed real-life datasets visually:
+
+- penguins dataset: scatter plots of flipper_length_mm vs body_mass_g
+
+- tips dataset: pivot tables and heatmaps for average tip by day and time
