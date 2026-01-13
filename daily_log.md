@@ -106,3 +106,13 @@
 - penguins dataset: scatter plots of flipper_length_mm vs body_mass_g
 
 - tips dataset: pivot tables and heatmaps for average tip by day and time
+
+
+### Day 11,12,13,14,15 - Probability
+
+- Complementary, Addition, Multiplication Rule
+- Conditional, Law of Total Probability
+- Bayes Theorem, Random Variables
+- Probability Distribution - Binomial, Uniform, Normal
+- Central Limit Theorem
+- Do lot of practice
