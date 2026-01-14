@@ -116,3 +116,40 @@
 - Probability Distribution - Binomial, Uniform, Normal
 - Central Limit Theorem
 - Do lot of practice
+
+### Day 16-23  Math For AI -> Linear Algebra
+
+- Straight Lines, Distance between 2 point, Parallel, Perpendicular lines, Distance between Parallel Lines
+- Vectors, Addition, Sub, Mult, Dot and Cross Product
+- Matrix, Operations on Matrices, Eigen Vectors and Eigen Values
+
+### Day 24 - 30 Math for AI -> Calculus
+
+- Function, Composite Function
+- Functions: Scaler Multiplication and Addition
+- Input:  Scaler Multiplication and Addition
+- Diffrentiations -> Rules, Find Minima maxima
+
+### Day 31  SuperVised Learning - Linear Regression
+
+- Best fit Line
+- Cost Function
+- Gradient Descent
+- Cost Function Curve
+- Insurence Prediction Using Linear Regression
+
+
+### Day 32 - Encoding, Feature Engineering
+
+- Categorical and one hot encodin
+- Multicolinearity, Dummy Variable trap
+- Other Feature Engineering like - Iteractions
+
+
+
+### Day 33 - Regularization -> Intuition
+
+- Underfit, overfit, Bias, Variance
+- Lasso, Ridge Regration
+- Using LassoCV, ElasticNet 
+
