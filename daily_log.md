@@ -147,9 +147,22 @@
 
 
 
-### Day 33 - Regularization -> Intuition
+### Day 33 - Regularization Implement with Intuition
 
 - Underfit, overfit, Bias, Variance
 - Lasso, Ridge Regration
 - Using LassoCV, ElasticNet 
+
+
+### day 34 - Logistic Regression
+
+- Logistic Regression Algorithm Intuition
+- Implementation using a dataset
+- Cost function
+
+### Day 35 - Normalization and Evaluation Metrics
+
+- Standardization and Normalization
+- Confusion Matrix, Classification Metrics
+- Evaluate with Metrics
 
