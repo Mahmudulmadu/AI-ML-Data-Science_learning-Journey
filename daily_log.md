@@ -166,3 +166,16 @@
 - Confusion Matrix, Classification Metrics
 - Evaluate with Metrics
 
+### Day 36 - Naive Bayes and KNN
+
+- Algorithm, Implementation, Types of Naive bayes
+
+
+### Day 37 - Cross Validation
+- CV for HyperParameter tuning
+- Pipeline in Sklearn
+
+### Day 38 - Assignment on Iris Dataset
+
+- Apply all this things for classify what I learn
+- House Prediction Aplly KNN, LR, Naive
