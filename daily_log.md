@@ -175,7 +175,13 @@
 - CV for HyperParameter tuning
 - Pipeline in Sklearn
 
-### Day 38 - Assignment on Iris Dataset
+### Day 38 - Practice on Iris Dataset
 
 - Apply all this things for classify what I learn
 - House Prediction Aplly KNN, LR, Naive
+
+### Day 39 - Scratch Implementation
+ - Linear Regression, LR with OLS
+ - Logistic Regression
+ - KNN Classifier, KNN Regression
+
