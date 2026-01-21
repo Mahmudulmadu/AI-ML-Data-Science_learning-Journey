@@ -185,3 +185,8 @@
  - Logistic Regression
  - KNN Classifier, KNN Regression
 
+### Day 40 - Minor Project
+
+- Credit Wise Loan System
+- Handle Missing data, EDA, Encoding
+- Feature Scaling, Feature Engineering
