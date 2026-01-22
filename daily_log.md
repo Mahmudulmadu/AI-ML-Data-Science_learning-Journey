@@ -190,3 +190,10 @@
 - Credit Wise Loan System
 - Handle Missing data, EDA, Encoding
 - Feature Scaling, Feature Engineering
+
+### Day 41 - Decision Tree (Classifier)
+- DT Classifier
+- Entropy, Gini Impurity, Information gain 
+- Pruning Decision Trees
+- Pruning Rules
+
