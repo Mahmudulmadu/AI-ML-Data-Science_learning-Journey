@@ -197,3 +197,7 @@
 - Pruning Decision Trees
 - Pruning Rules
 
+### Day 42 - Decision Tree (Regression)
+- Pre - Pruning, Post pruning
+-  Variance Reduction
+- Do a small Project Applying Decision Tree Algorithm
