@@ -208,3 +208,8 @@
 - Classification Hyperparameters
 - kernel in SVM
 - Kernels Types
+
+### Day 44 - SVM (Regression)
+- SVM Regressor Intuition
+- GridSearchCV for HyperParameter
+- LinearSVR vs SVR
