@@ -201,3 +201,10 @@
 - Pre - Pruning, Post pruning
 -  Variance Reduction
 - Do a small Project Applying Decision Tree Algorithm
+
+### Day 43 - SVM (CLassifier)
+
+- SVM Intuition, Mathmatical logic
+- Classification Hyperparameters
+- kernel in SVM
+- Kernels Types
