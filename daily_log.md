@@ -213,3 +213,9 @@
 - SVM Regressor Intuition
 - GridSearchCV for HyperParameter
 - LinearSVR vs SVR
+
+### Day 45 - Ensemble Learning (Random Forest)
+- Bagging, Boosting
+- Random Forest
+- Out of Bag
+- Decision Tree vs Random Forest
