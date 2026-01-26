@@ -219,3 +219,7 @@
 - Random Forest
 - Out of Bag
 - Decision Tree vs Random Forest
+
+### Day 46 - Bagging Classifier and Regressor
+- Random Forest Regressor
+- Intuition and Implementation
