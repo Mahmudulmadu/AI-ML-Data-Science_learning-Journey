@@ -223,3 +223,9 @@
 ### Day 46 - Bagging Classifier and Regressor
 - Random Forest Regressor
 - Intuition and Implementation
+
+### Day 47 - Gradient Boosting
+
+- Gradient Boosting Regressor
+- Gradient Boosting classifier
+- AdaBoost
