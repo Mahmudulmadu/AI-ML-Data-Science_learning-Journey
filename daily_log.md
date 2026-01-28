@@ -229,3 +229,8 @@
 - Gradient Boosting Regressor
 - Gradient Boosting classifier
 - AdaBoost
+
+### Day 48 - XGBoost
+- Other Boosting, LightGB,
+- Homogenous vs Heterogenous Ensemble
+- Voting
