@@ -234,3 +234,8 @@
 - Other Boosting, LightGB,
 - Homogenous vs Heterogenous Ensemble
 - Voting
+
+### Day 49 - Stacking
+
+- Blending
+- Novagens Labs Project -> Health Prediction
