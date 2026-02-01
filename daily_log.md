@@ -246,3 +246,7 @@
 - K-Means Clustering
 - Elbow Method for K
 
+### Day 51 - Practical Implementation of K-Means
+- Silhouette Score for K
+- Random Initialization Trap
+- K-Means on Iris Dataset
