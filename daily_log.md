@@ -239,3 +239,10 @@
 
 - Blending
 - Novagens Labs Project -> Health Prediction
+
+### Day 50 - Unsupervised ML
+
+- Clustering
+- K-Means Clustering
+- Elbow Method for K
+
