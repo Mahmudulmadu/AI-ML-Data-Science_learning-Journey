@@ -256,3 +256,7 @@
 - Dendrogram
 - KMeans Vs Hierarchical
 
+### Day 53 - DBSCAN Clustering
+- Core Point, Boundary point, Outlier
+- Hypertuning
+- Kmeans vs DBSCAN in Non-linear data
