@@ -250,3 +250,9 @@
 - Silhouette Score for K
 - Random Initialization Trap
 - K-Means on Iris Dataset
+
+### Day 52 -  Hierarchical Cluster
+- Agglomerative and Divisive Clustering
+- Dendrogram
+- KMeans Vs Hierarchical
+
