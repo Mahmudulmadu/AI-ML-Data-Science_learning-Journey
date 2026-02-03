@@ -260,3 +260,8 @@
 - Core Point, Boundary point, Outlier
 - Hypertuning
 - Kmeans vs DBSCAN in Non-linear data
+
+### Day 54 - Dimensionality Reduction
+- Primary Component Analysis
+- PCA intuition
+- Anomaly Detection
