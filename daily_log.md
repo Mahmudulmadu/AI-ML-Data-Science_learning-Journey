@@ -262,6 +262,12 @@
 - Kmeans vs DBSCAN in Non-linear data
 
 ### Day 54 - Dimensionality Reduction
+- Curse of Dimensionality
+- Solving Different way
+- Outlier, Noise, Anomaly
 - Primary Component Analysis
-- PCA intuition
-- Anomaly Detection
+
+### Day 55 -  Anomaly Detection
+- DBSCAN for Anomalies
+- Isolation Forest for Anomalies
+- Local outlier factor - LOF
