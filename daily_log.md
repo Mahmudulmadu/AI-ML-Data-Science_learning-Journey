@@ -271,3 +271,10 @@
 - DBSCAN for Anomalies
 - Isolation Forest for Anomalies
 - Local outlier factor - LOF
+
+### Day 56 - Project SmartCart Clustering System
+- Handle missing data, Feature Engineering
+- Handle Outliers, Drop Columns, Feature encoding ans Scaling
+- Visualization, Choose k (Elbow and Silhouette score)
+- Segementation using k-Means, Agglomerative Clustering
+- Characterization and Summary Profilling 
