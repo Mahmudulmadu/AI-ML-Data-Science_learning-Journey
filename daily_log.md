@@ -278,3 +278,8 @@
 - Visualization, Choose k (Elbow and Silhouette score)
 - Segementation using k-Means, Agglomerative Clustering
 - Characterization and Summary Profilling 
+
+### day 57 - Perticipate Kaggle competition Predicting Heart Disease
+
+- [Competion Link](https://www.kaggle.com/competitions/playground-series-s6e2)
+- Accuracy got 95%
