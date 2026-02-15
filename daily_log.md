@@ -283,3 +283,9 @@
 
 - [Competion Link](https://www.kaggle.com/competitions/playground-series-s6e2)
 - Accuracy got 95%
+
+### Day 58 - Deep Learning (Perceptron)
+
+- ML vs DL
+- ANN, In depth Perceptron
+- Building a Neuron
