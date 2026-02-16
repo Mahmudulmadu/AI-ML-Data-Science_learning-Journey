@@ -289,3 +289,9 @@
 - ML vs DL
 - ANN, In depth Perceptron
 - Building a Neuron
+
+### Day 59 - Forward and Backward Propagation
+
+- Loss Functions (Regression + Classification) - Mathematical Intuition
+- Weight and Bias Updation
+- Chain Rule of Derivatives in NN
