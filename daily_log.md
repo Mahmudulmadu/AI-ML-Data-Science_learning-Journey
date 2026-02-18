@@ -279,7 +279,7 @@
 - Segementation using k-Means, Agglomerative Clustering
 - Characterization and Summary Profilling 
 
-### day 57 - Perticipate Kaggle competition Predicting Heart Disease
+### Day 57 - Perticipate Kaggle competition Predicting Heart Disease
 
 - [Competion Link](https://www.kaggle.com/competitions/playground-series-s6e2)
 - Accuracy got 95%
@@ -295,3 +295,10 @@
 - Loss Functions (Regression + Classification) - Mathematical Intuition
 - Weight and Bias Updation
 - Chain Rule of Derivatives in NN
+
+### Day 60 - Vanishing Gradient Problem
+
+- RELU and its Vairaints
+- BATCH vs Iteration vs Epoch
+- Optimizers
+- Modern Variants of GD
