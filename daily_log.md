@@ -302,3 +302,7 @@
 - BATCH vs Iteration vs Epoch
 - Optimizers
 - Modern Variants of GD
+
+### Day 61 - ANN for Regression
+- steps (Algorithm)
+- Load data with tensor
