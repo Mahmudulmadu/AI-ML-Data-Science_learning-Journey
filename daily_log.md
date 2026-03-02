@@ -306,3 +306,7 @@
 ### Day 61 - ANN for Regression
 - steps (Algorithm)
 - Load data with tensor
+
+# Day 62 - Build and Train ANN Model
+- Scratch Implementation
+- How to train step by step
