@@ -310,3 +310,7 @@
 # Day 62 - Build and Train ANN Model
 - Scratch Implementation
 - How to train step by step
+
+# Day 63 -  Save the best model
+- Loading the Best Model
+- Evaluation 
