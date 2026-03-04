@@ -314,3 +314,6 @@
 # Day 63 -  Save the best model
 - Loading the Best Model
 - Evaluation 
+
+# Day 64 - ANN for Classifcation
+- Build a Full project project 
