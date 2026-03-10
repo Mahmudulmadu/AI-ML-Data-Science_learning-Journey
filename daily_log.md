@@ -322,3 +322,9 @@
 - Computer Vision
 - Why need CNN for images
 - CNN Architecture
+
+# Day 66 - Layers of CNN
+- Convolutional Layer
+- Pooling Layer
+- Fully Coonected Layer
+- Mathematical explaination
