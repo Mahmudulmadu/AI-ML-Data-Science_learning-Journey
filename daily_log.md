@@ -316,4 +316,9 @@
 - Evaluation 
 
 # Day 64 - ANN for Classifcation
-- Build a Full project project 
+- Build a Full project project
+
+# Day 65 - Neural Network Architectures - FNN, CNN
+- Computer Vision
+- Why need CNN for images
+- CNN Architecture
