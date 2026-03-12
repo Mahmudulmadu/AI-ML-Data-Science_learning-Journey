@@ -58,54 +58,16 @@
 
 ### Day 9 - Introduction to Seaborn & Relational Plots
 
-- Explored the Seaborn library for statistical data visualization
+- Explored Seaborn’s relational plots (scatter and line) with multiple dimensions using hue, size, and style; added markers, legends, and customized axes for clarity.
 
-- Loaded built-in datasets like tips and flights
-
-- Created relational plots with sns.relplot:
-
-- Scatter plots with multiple dimensions (hue, size, style)
-
-- Line plots to show trends over variables
-
-- Practiced line plots using both Seaborn and Matplotlib
-
-- Learned to add markers, legends, and customize axes
+- Practiced combining Seaborn and Matplotlib for line plots, trend analysis, and visualizing built-in datasets like tips and flights.
 
 
 ### Day 10 – Advanced Seaborn & Matplotlib Visualizations
 
-- Visualized distributions with sns.histplot and overlayed mean lines
+- Visualized distributions using histplot with mean lines, created categorical plots like barplot and boxplot with hue, and built heatmaps from pivoted data with annotations and custom color maps.
 
-- Explored categorical plots:
-
-- Bar plots (sns.barplot)
-
-- Box plots (sns.boxplot) with hue separation
-
-- Worked with matrix-style plots:
-
-- Pivoted flights data to create heatmaps (sns.heatmap)
-
-- Annotated heatmaps with values and customized color maps
-
-- Applied best practices in Matplotlib:
-
-- Titles, axis labels, grids, legends, tight layout adjustments
-
-- Combined Seaborn plots with Matplotlib axes for greater control
-
-- Built composite figures:
-
-- Multiple subplots using plt.subplots()
-
-- Histograms with KDE, vertical lines for mean, customized axes
-
-- Analyzed real-life datasets visually:
-
-- penguins dataset: scatter plots of flipper_length_mm vs body_mass_g
-
-- tips dataset: pivot tables and heatmaps for average tip by day and time
+- Constructed composite figures with multiple subplots, applied Matplotlib best practices (titles, labels, grids, tight layouts), and analyzed real datasets like penguins and tips for insights.
 
 
 ### Day 11,12,13,14,15 - Probability
