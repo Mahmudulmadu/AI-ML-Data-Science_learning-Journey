@@ -328,3 +328,7 @@
 - Pooling Layer
 - Fully Coonected Layer
 - Mathematical explaination
+
+# Day 67 - Project CNN for Image Classification
+ - Complete a Minor project 
+
