@@ -269,28 +269,32 @@
 - steps (Algorithm)
 - Load data with tensor
 
-# Day 62 - Build and Train ANN Model
+### Day 62 - Build and Train ANN Model
 - Scratch Implementation
 - How to train step by step
 
-# Day 63 -  Save the best model
+### Day 63 -  Save the best model
 - Loading the Best Model
 - Evaluation 
 
-# Day 64 - ANN for Classifcation
+### Day 64 - ANN for Classifcation
 - Build a Full project project
 
-# Day 65 - Neural Network Architectures - FNN, CNN
+### Day 65 - Neural Network Architectures - FNN, CNN
 - Computer Vision
 - Why need CNN for images
 - CNN Architecture
 
-# Day 66 - Layers of CNN
+### Day 66 - Layers of CNN
 - Convolutional Layer
 - Pooling Layer
 - Fully Coonected Layer
 - Mathematical explaination
 
-# Day 67 - Project CNN for Image Classification
+### Day 67 - Project CNN for Image Classification
  - Complete a Minor project 
 
+### Day 68 - Kaggle Competition - > Predict Customer Churn
+
+- Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e3/overview)
+-  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/predictcustomerchurn-xgboost-baseline)
