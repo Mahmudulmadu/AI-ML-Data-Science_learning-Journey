@@ -298,3 +298,8 @@
 
 - Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e3/overview)
 -  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/predictcustomerchurn-xgboost-baseline)
+
+### Day 69 - NLP
+
+-  Text Processing Techniques
+- Advance Text Processing Techniques (Word2Vec)
