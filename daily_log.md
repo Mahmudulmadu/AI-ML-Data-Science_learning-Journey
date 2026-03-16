@@ -303,3 +303,8 @@
 
 -  Text Processing Techniques
 - Advance Text Processing Techniques (Word2Vec)
+
+### Day 70 - RNN
+- TF-IDF
+- RNN Architecture
+- Types of RNN Architectures
