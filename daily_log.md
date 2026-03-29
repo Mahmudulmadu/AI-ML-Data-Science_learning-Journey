@@ -315,3 +315,8 @@
 - Remove StopWords with NLTK
 - use DataLoaders & Build RNN
 - Train and Evaluation
+
+
+### Day 72 - Reinforcement Learning
+- Components in RL
+- Markov Decision Process
