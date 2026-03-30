@@ -320,3 +320,9 @@
 ### Day 72 - Reinforcement Learning
 - Components in RL
 - Markov Decision Process
+
+### 73 -  RL Understanding with Grid
+
+- Policy Optimization
+- Importance of Q Functions
+- Exploration-Exploitation Tradeoff
