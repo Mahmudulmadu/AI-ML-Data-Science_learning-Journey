@@ -321,8 +321,14 @@
 - Components in RL
 - Markov Decision Process
 
-### 73 -  RL Understanding with Grid
+### Day 73 -  RL Understanding with Grid
 
 - Policy Optimization
 - Importance of Q Functions
 - Exploration-Exploitation Tradeoff
+
+
+### Day 74 - - Kaggle Competition - > Predicting Irrigation Need
+
+- Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e4)
+-  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic)
