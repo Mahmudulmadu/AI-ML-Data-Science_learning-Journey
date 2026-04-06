@@ -332,3 +332,8 @@
 
 - Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e4)
 -  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic)
+
+
+
+### Day 75 CNN - Binary Classification (Dog/cats)
+- See Notebook DeepLearning/CNN_Image_clas_project/CNN_Img_class_dog_cat
