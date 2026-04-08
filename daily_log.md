@@ -337,3 +337,5 @@
 
 ### Day 75 CNN - Binary Classification (Dog/cats)
 - See Notebook DeepLearning/CNN_Image_clas_project/CNN_Img_class_dog_cat
+
+### Day 76 Hand Written digit Classification using CNN, RNN, LSTM
