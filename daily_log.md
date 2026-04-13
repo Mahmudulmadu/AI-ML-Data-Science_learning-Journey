@@ -339,3 +339,10 @@
 - See Notebook DeepLearning/CNN_Image_clas_project/CNN_Img_class_dog_cat
 
 ### Day 76 Hand Written digit Classification using CNN, RNN, LSTM
+
+
+### Day 77 Diverse RL Methods
+
+- Dynamic Programming, Monte carlo Methods
+- Temporal Diiference Learning
+- SARSA and Q-Learning Algorithm
