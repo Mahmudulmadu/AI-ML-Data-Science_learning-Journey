@@ -350,3 +350,7 @@
 ### Day 78 Cliff-Walking Problem solved by RL
 - SARSA Implementation, What Agent Learn with SARSA
 - Minor Project  Cliff-Walking Problem with SARSA
+
+### day 79 Cliff-Walking Problem solved by Q-Learning
+- Q-Learning Implementation
+- What Agent learnt with Q-learning
