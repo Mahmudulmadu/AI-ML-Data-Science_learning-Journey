@@ -351,6 +351,10 @@
 - SARSA Implementation, What Agent Learn with SARSA
 - Minor Project  Cliff-Walking Problem with SARSA
 
-### day 79 Cliff-Walking Problem solved by Q-Learning
+### Day 79 Cliff-Walking Problem solved by Q-Learning
 - Q-Learning Implementation
 - What Agent learnt with Q-learning
+
+### Day 80 Deep Reinforcement Learning
+- Deep Q-Networks 
+- Experience replay, Policy and Target Network
