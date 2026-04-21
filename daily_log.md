@@ -331,7 +331,7 @@
 ### Day 74 - - Kaggle Competition - > Predicting Irrigation Need
 
 - Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e4)
--  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic)
+- my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic)
 
 
 
@@ -358,3 +358,11 @@
 ### Day 80 Deep Reinforcement Learning
 - Deep Q-Networks 
 - Experience replay, Policy and Target Network
+
+### Day 81 Deep Q Networks (DQN)
+- Experience Replay
+- Policy and target network
+
+### Day 82 Building Project Flappy Bird Game using DQN
+- set env, Build DQN, Build Experience Replay, difne hyperparameter, implement e-greedy and e-decay
+- Build target network, train DQN, Trained FlappyBird RL Agent
