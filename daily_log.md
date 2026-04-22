@@ -364,5 +364,10 @@
 - Policy and target network
 
 ### Day 82 Building Project Flappy Bird Game using DQN
-- set env, Build DQN, Build Experience Replay, difne hyperparameter, implement e-greedy and e-decay
+- set env, Build DQN, Build Experience Replay, define hyperparameter, implement e-greedy and e-decay
 - Build target network, train DQN, Trained FlappyBird RL Agent
+
+### Day 83 Intro Gen AI
+- what LLMs, Transformers
+- Static and Contextual Embedding
+- Tranformer Architecture Overview
