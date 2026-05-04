@@ -4,141 +4,86 @@
  - Revised python Fundamental
  - OOP
 
-
 ### Day 2 – NumPy
 - Learned NumPy arrays, creation methods, indexing, slicing, reshaping, broadcasting, and vectorization  
 - Compared NumPy vs Python lists for performance, memory usage, and data operations
 
 ### Day 3 – Pandas Indexing & Filtering
-
 - Learned data selection using loc, iloc, at, iat, column selection, and slicing rules
-
 - Practiced boolean filtering and SQL-like querying using df.query()
 
 ### Day 4 – Pandas Data Cleaning & Transformation
-
 - Learned handling missing values, duplicates, data type conversion, and string operations
-
 - Practiced data transformation, sorting, renaming, reordering columns, and index management
 
 ### Day 5 – API Data Collection & Web Scraping
-
 - Learned how to fetch data from public APIs using requests and convert JSON responses into Pandas DataFrames
-
 - Practiced web scraping using requests + BeautifulSoup to extract, clean, and store structured data into CSV files
 
 ### Day 6 – Pagination Scraping & Data Extraction
-
 - Learned how to scrape multiple web pages using pagination and automatically stop when no more pages are found
-
-- Practiced extracting specific content (quotes, authors, tags), filtering data based on conditions, and storing results in Pandas DataFrames
-
+- Practiced extracting content (quotes, authors, tags), filtering data based on conditions, and storing results in Pandas DataFrames
 
 ### Day 7 – Data Visualization with Matplotlib
-
-- Practiced basic plotting using NumPy and Matplotlib
-
-- Created histograms with custom bins and multiple datasets
-
-- Visualized data using box plots and stack plots
-
-- Learned to add labels, legends, grids, and reference lines
+- Practiced basic plotting using NumPy and Matplotlib, Created histograms with custom bins and multiple datasets
+- Visualized data using box plots and stack plots, Learned to add labels, legends, grids, and reference lines
 
 ### Day 8 – Advanced Matplotlib & Plot Styling
-
 - Built subplots using both procedural and OOP Matplotlib approaches
-
 - Compared datasets using line plots, bar charts, scatter plots, and pie charts
-
-- Applied plot styling, themes, annotations, and color maps
-
-- Saved figures and improved layout using tight_layout()
-
-
+- Applied plot styling, themes, annotations, and color maps, Saved figures and improved layout using tight_layout()
 
 ### Day 9 - Introduction to Seaborn & Relational Plots
-
-- Explored Seaborn’s relational plots (scatter and line) with multiple dimensions using hue, size, and style; added markers, legends, and customized axes for clarity.
-
+- Explored Seaborn’s relational plots (scatter and line) with multiple dimensions using hue, size, and 
+- style; added markers, legends, and customized axes for clarity.
 - Practiced combining Seaborn and Matplotlib for line plots, trend analysis, and visualizing built-in datasets like tips and flights.
 
-
 ### Day 10 – Advanced Seaborn & Matplotlib Visualizations
-
-- Visualized distributions using histplot with mean lines, created categorical plots like barplot and boxplot with hue, and built heatmaps from pivoted data with annotations and custom color maps.
-
-- Constructed composite figures with multiple subplots, applied Matplotlib best practices (titles, labels, grids, tight layouts), and analyzed real datasets like penguins and tips for insights.
-
+- Visualized distributions using histplot with mean lines, created categorical plots like barplot and boxplot with hue 
+- Built heatmaps from pivoted data with annotations and custom color maps.
+- Constructed composite figures with multiple subplots, applied Matplotlib best practices (titles, labels, grids, tight layouts)
+- Analyzed real datasets like penguins and tips for insights.
 
 ### Day 11,12,13,14,15 - Probability
-
-- Complementary, Addition, Multiplication Rule
-- Conditional, Law of Total Probability
-- Bayes Theorem, Random Variables
-- Probability Distribution - Binomial, Uniform, Normal
-- Central Limit Theorem
-- Do lot of practice
+- Complementary, Addition, Multiplication Rule, Conditional, Law of Total Probability, Bayes Theorem, Random Variables
+- Probability Distribution - Binomial, Uniform, Normal, Central Limit Theorem, Do lot of practice
 
 ### Day 16-23  Math For AI -> Linear Algebra
-
 - Straight Lines, Distance between 2 point, Parallel, Perpendicular lines, Distance between Parallel Lines
-- Vectors, Addition, Sub, Mult, Dot and Cross Product
-- Matrix, Operations on Matrices, Eigen Vectors and Eigen Values
+- Vectors, Addition, Sub, Mult, Dot and Cross Product.  Matrix, Operations on Matrices, Eigen Vectors and Eigen Values
 
 ### Day 24 - 30 Math for AI -> Calculus
-
-- Function, Composite Function
-- Functions: Scaler Multiplication and Addition
-- Input:  Scaler Multiplication and Addition
-- Diffrentiations -> Rules, Find Minima maxima
+- Function, Composite Function, - Functions: Scaler Multiplication and Addition, 
+- Input:  Scaler Multiplication and Addition, Diffrentiations -> Rules, Find Minima maxima
 
 ### Day 31  SuperVised Learning - Linear Regression
-
-- Best fit Line
-- Cost Function
-- Gradient Descent
-- Cost Function Curve
+- Best fit Line, Cost Function, Gradient Descent, Cost Function Curve
 - Insurence Prediction Using Linear Regression
 
-
 ### Day 32 - Encoding, Feature Engineering
-
-- Categorical and one hot encodin
-- Multicolinearity, Dummy Variable trap
+- Categorical and one hot encoding, Multicolinearity, Dummy Variable trap
 - Other Feature Engineering like - Iteractions
 
-
-
 ### Day 33 - Regularization Implement with Intuition
-
 - Underfit, overfit, Bias, Variance
-- Lasso, Ridge Regration
-- Using LassoCV, ElasticNet 
-
+- Lasso, Ridge Regration, Using LassoCV, ElasticNet 
 
 ### day 34 - Logistic Regression
-
-- Logistic Regression Algorithm Intuition
-- Implementation using a dataset
+- Logistic Regression Algorithm Intuition, Implementation using a dataset
 - Cost function
 
 ### Day 35 - Normalization and Evaluation Metrics
-
-- Standardization and Normalization
-- Confusion Matrix, Classification Metrics
+- Standardization and Normalization, Confusion Matrix, Classification Metrics
 - Evaluate with Metrics
 
 ### Day 36 - Naive Bayes and KNN
-
 - Algorithm, Implementation, Types of Naive bayes
-
 
 ### Day 37 - Cross Validation
 - CV for HyperParameter tuning
 - Pipeline in Sklearn
 
 ### Day 38 - Practice on Iris Dataset
-
 - Apply all this things for classify what I learn
 - House Prediction Aplly KNN, LR, Naive
 
@@ -148,7 +93,6 @@
  - KNN Classifier, KNN Regression
 
 ### Day 40 - Minor Project
-
 - Credit Wise Loan System
 - Handle Missing data, EDA, Encoding
 - Feature Scaling, Feature Engineering
@@ -156,16 +100,13 @@
 ### Day 41 - Decision Tree (Classifier)
 - DT Classifier
 - Entropy, Gini Impurity, Information gain 
-- Pruning Decision Trees
-- Pruning Rules
+- Pruning Decision Trees, Pruning Rules
 
 ### Day 42 - Decision Tree (Regression)
-- Pre - Pruning, Post pruning
--  Variance Reduction
+- Pre - Pruning, Post pruning, Variance Reduction
 - Do a small Project Applying Decision Tree Algorithm
 
 ### Day 43 - SVM (CLassifier)
-
 - SVM Intuition, Mathmatical logic
 - Classification Hyperparameters
 - kernel in SVM
@@ -187,7 +128,6 @@
 - Intuition and Implementation
 
 ### Day 47 - Gradient Boosting
-
 - Gradient Boosting Regressor
 - Gradient Boosting classifier
 - AdaBoost
@@ -198,12 +138,10 @@
 - Voting
 
 ### Day 49 - Stacking
-
 - Blending
 - Novagens Labs Project -> Health Prediction
 
 ### Day 50 - Unsupervised ML
-
 - Clustering
 - K-Means Clustering
 - Elbow Method for K
@@ -242,12 +180,10 @@
 - Characterization and Summary Profilling 
 
 ### Day 57 - Perticipate Kaggle competition Predicting Heart Disease
-
 - [Competion Link](https://www.kaggle.com/competitions/playground-series-s6e2)
 - Accuracy got 95%
 
 ### Day 58 - Deep Learning (Perceptron)
-
 - ML vs DL
 - ANN, In depth Perceptron
 - Building a Neuron
@@ -259,7 +195,6 @@
 - Chain Rule of Derivatives in NN
 
 ### Day 60 - Vanishing Gradient Problem
-
 - RELU and its Vairaints
 - BATCH vs Iteration vs Epoch
 - Optimizers
@@ -295,12 +230,10 @@
  - Complete a Minor project 
 
 ### Day 68 - Kaggle Competition - > Predict Customer Churn
-
 - Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e3/overview)
 -  my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/predictcustomerchurn-xgboost-baseline)
 
 ### Day 69 - NLP
-
 -  Text Processing Techniques
 - Advance Text Processing Techniques (Word2Vec)
 
@@ -310,7 +243,6 @@
 - Types of RNN Architectures
 
 ### Day 71 - Project Sentiment Analysis using RNN
-
 - Pre-process with regex
 - Remove StopWords with NLTK
 - use DataLoaders & Build RNN
@@ -322,14 +254,12 @@
 - Markov Decision Process
 
 ### Day 73 -  RL Understanding with Grid
-
 - Policy Optimization
 - Importance of Q Functions
 - Exploration-Exploitation Tradeoff
 
 
 ### Day 74 - - Kaggle Competition - > Predicting Irrigation Need
-
 - Competition link --> [text](https://www.kaggle.com/competitions/playground-series-s6e4)
 - my notebook link --> [text](https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic)
 
@@ -342,7 +272,6 @@
 
 
 ### Day 77 Diverse RL Methods
-
 - Dynamic Programming, Monte carlo Methods
 - Temporal Diiference Learning
 - SARSA and Q-Learning Algorithm
@@ -371,3 +300,7 @@
 - what LLMs, Transformers
 - Static and Contextual Embedding
 - Tranformer Architecture Overview
+
+### Day 84 Transformers
+- Encoder & Decoder, Various Transformers Architecture
+- Attention and Scaled Dot Product Attention, Multi head  self Attention
