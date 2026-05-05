@@ -304,3 +304,8 @@
 ### Day 84 Transformers
 - Encoder & Decoder, Various Transformers Architecture
 - Attention and Scaled Dot Product Attention, Multi head  self Attention
+
+### Day 85 Transformers Part 2
+- Residual Connection, FNN in Encoder, Cross Attention
+- Masked Attention in Decoder, Pre-trained Transformers, Multiple platforms
+
