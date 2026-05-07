@@ -309,3 +309,7 @@
 - Residual Connection, FNN in Encoder, Cross Attention
 - Masked Attention in Decoder, Pre-trained Transformers, Multiple platforms
 
+### Day 86 Text Summarizer Using Hugging Face Transformers
+- Import and Preprocessing data, Tokenization for T5
+- Fine Tuning our Transfer Model
+- save and Load model, test summarization Logic
