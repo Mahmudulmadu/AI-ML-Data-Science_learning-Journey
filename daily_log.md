@@ -313,3 +313,7 @@
 - Import and Preprocessing data, Tokenization for T5
 - Fine Tuning our Transfer Model
 - save and Load model, test summarization Logic
+
+### Day 86 Text Summarizer Use as an Application
+- HTML, CSS setup, Client-Server 
+- Add js Logic, FastAPI, integrate model
