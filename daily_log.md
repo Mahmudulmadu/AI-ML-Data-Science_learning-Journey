@@ -317,3 +317,8 @@
 ### Day 86 Text Summarizer Use as an Application
 - HTML, CSS setup, Client-Server 
 - Add js Logic, FastAPI, integrate model
+
+
+### Day 87 RAG
+- Ingestion pipeline, Retrieval and Generation pipeline
+- RAG with Langchain, Implementation chunks, Embedding, vectore store, Retriever
