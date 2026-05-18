@@ -324,3 +324,6 @@
 - RAG with Langchain, Implementation chunks, Embedding, vectore store, Retriever
 - Integration with LLms, Rag with GPT, RAG with Groq.
 
+### Day 89 OpenAI APIs
+- Building with OpenAI APIs, Responses API, Parameter for Text Generation, Rolse in Response API
+- Send image, AI personal Assistant, Generate imahe (Response API), Genr=erate and Edit Image with Image API
