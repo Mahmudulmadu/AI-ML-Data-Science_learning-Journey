@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {{header | safe}}
+    <h1>Welcome {{ name }} !</h1>
+
+    {% if friends %}
+        <h2>Your Friends:</h2>
+        <ul>
+            {% for friend in friends %}
+                <li>{{ friend }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>You have no friends listed.</p>
+    {% endif %}
+
+
+</body>
+</html>

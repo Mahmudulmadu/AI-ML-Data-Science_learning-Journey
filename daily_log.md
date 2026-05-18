@@ -319,6 +319,8 @@
 - Add js Logic, FastAPI, integrate model
 
 
-### Day 87 RAG
+### Day 87, 88 RAG Implementation
 - Ingestion pipeline, Retrieval and Generation pipeline
 - RAG with Langchain, Implementation chunks, Embedding, vectore store, Retriever
+- Integration with LLms, Rag with GPT, RAG with Groq.
+
