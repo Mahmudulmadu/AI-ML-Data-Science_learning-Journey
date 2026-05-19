@@ -327,3 +327,8 @@
 ### Day 89 OpenAI APIs
 - Building with OpenAI APIs, Responses API, Parameter for Text Generation, Rolse in Response API
 - Send image, AI personal Assistant, Generate imahe (Response API), Genr=erate and Edit Image with Image API
+
+### Day 90 Working with Flask
+- Rendering Templates and static files, changing default structure, Handling Forms, Query String
+-  APIs with JSON, Jinja2 Templating, Templating Inheritance, Message Flashing and Redirect
+- Deploying AI Assistant with Flask
