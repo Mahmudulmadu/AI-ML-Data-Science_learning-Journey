@@ -330,5 +330,11 @@
 
 ### Day 90 Working with Flask
 - Rendering Templates and static files, changing default structure, Handling Forms, Query String
--  APIs with JSON, Jinja2 Templating, Templating Inheritance, Message Flashing and Redirect
+- APIs with JSON, Jinja2 Templating, Templating Inheritance, Message Flashing and Redirect
 - Deploying AI Assistant with Flask
+
+### Day 91 GANs - Generative Adversial Network
+- GANs Architecture, Generator Network, Discriminator Network
+- Setting up Celeba Dataset, implement generator and discriminator
+- Training The GAN
+
