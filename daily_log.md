@@ -341,3 +341,7 @@
 ### Day 92 ML Competitions F1 Pit Stop Prediction
 - Accuracy get 0.949 Got bronze medal in my notebook
 - Notebook Link - [text]([https://www.kaggle.com/code/mahmudulmadu/s6e4-predwaterneeds-xgboost-feature-magic])
+
+### Day 93 DCGAN
+- Deep Convolution Adversial Network
+- Hyper tuning for Better Accuracy
