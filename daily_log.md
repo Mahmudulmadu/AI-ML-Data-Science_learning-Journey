@@ -345,3 +345,8 @@
 ### Day 93 DCGAN
 - Deep Convolution Adversial Network
 - Hyper tuning for Better Accuracy
+
+### Day 94 Agentic AI
+- Agentic AI vs AI Agents, Framework and platforms, core concept of Agentic AI
+- Agent with Agno, agent with memory, youtube video amalyzer
+- seploy agent with Streamlit
