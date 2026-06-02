@@ -350,3 +350,7 @@
 - Agentic AI vs AI Agents, Framework and platforms, core concept of Agentic AI
 - Agent with Agno, agent with memory, youtube video amalyzer
 - seploy agent with Streamlit
+
+### Day 95 Participate Kaggle Competition Stellar Classification
+- Competition Link - [text](https://www.kaggle.com/competitions/playground-series-s6e6)
+- Notebook Link - [text](https://www.kaggle.com/code/mahmudulmadu/s6e6-xgb-lgbm-cat-ensemble)
